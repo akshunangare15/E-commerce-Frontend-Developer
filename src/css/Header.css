@@ -1,0 +1,38 @@
+/* Header.css */
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: #fc8019; */
+  padding: 16px;
+}
+
+.header-title {
+  flex-grow: 1; /* Allow the title to grow to take available space */
+}
+
+.header-title h1 {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.header-filters {
+  display: flex;
+  align-items: center;
+}
+
+.header-filters select {
+  margin-left: 16px; /* Add some spacing between title and filters */
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+}
+
+.header-logo img {
+  width: 120px;
+  height: auto;
+}
+

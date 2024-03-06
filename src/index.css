@@ -1,0 +1,47 @@
+/* styles.css */
+
+
+
+/* Header */
+/* .header {
+  background-color: #fc8019;
+} */
+
+.header input[type="text"] {
+  width: 300px;
+}
+
+/* Filters */
+.filters {
+  background-color: #f2f2f2;
+}
+
+
+
+.filters select {
+  border-color: #ddd;
+}
+
+/* Food Items */
+.food-item {
+  background-color: #fff;
+}
+
+.food-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.food-item h2 {
+  color: #333;
+}
+
+.food-item p {
+  color: #666;
+}
+
+/* Footer */
+.footer {
+  background-color: #222;
+}
