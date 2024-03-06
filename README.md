@@ -39,12 +39,12 @@ To run the code, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Bhavana-Nangare-Frontend-Developer.git
+   git clone [https://github.com/your-username/Bhavana-Nangare-Frontend-Developer.git](https://github.com/akshunangare15/E-commerce-Frontend-Developer)
    ```
 
 2. Navigate to the project directory.
    ```bash
-   cd Bhavana-Nangare-Frontend-Developer
+   cd Eccomerce-Frontend-Developer
    ```
 
 3. Install dependencies using npm.
